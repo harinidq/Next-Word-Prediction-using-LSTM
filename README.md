@@ -211,7 +211,8 @@ def create_model(total_words, max_sequence_len):
 
 
 ### 2. n_grams_seqs output
-![Screenshot 2024-11-15 215404](https://github.com/user-attachments/assets/66886c78-d923-431d-b35f-69059901e1cc)
+![image](https://github.com/user-attachments/assets/a61ff846-f690-4d0d-93e0-977bde9b8cb8)
+
 
 
 ### 3. pad_seqs output
